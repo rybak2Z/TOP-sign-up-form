@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+aside {
+  float: left;
+  box-sizing: border-box;
+  border: 1px green solid;
+  height: 100%;
+  width: 35%;
+}
+
+main {
+  float: left;
+  box-sizing: border-box;
+  border: 1px blue solid;
+  height: 100%;
+  width: 65%;
+}
