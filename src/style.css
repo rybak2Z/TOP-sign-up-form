@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   height: 100%;
+  font-family: Barlow, sans-serif;
 }
 
 aside {
@@ -17,8 +18,9 @@ aside {
 aside > h1 {
   color: #dddddd;
   background-color: rgba(0 0 0 / 0.3);
+  font-family: Nanum Pen Script, sans-serif;
   text-align: center;
-  font-size: 5em;
+  font-size: 7em;
   margin: 20% 0 0 0;
 }
 
