@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   height: 100%;
+  width: 100%;
   font-family: Barlow, sans-serif;
 }
 
@@ -43,4 +44,24 @@ main {
   box-sizing: border-box;
   height: 100%;
   width: 65%;
+  padding-top: 5%;
+  font-size: 1.5em;
 }
+
+main > * {
+  box-sizing: border-box;
+  padding: 0 5%;
+}
+
+main > h1 {
+  font-size: 4rem;
+  margin: 0;
+}
+
+main > h2 {
+  font-size: 1.5rem;
+  color: #aaaaaa;
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
